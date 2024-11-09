@@ -1,2 +1,2 @@
-# MISAKI-Network-repository-of-evidence-of-player-violations
-A repository for recording player violations, kept up to date in real-time.
+# MISAKI服务器模板
+这个存储库用于更新和保存MISAKI模板,玩家可以从Release下载最新版和历史版本的模板以供参考和使用
